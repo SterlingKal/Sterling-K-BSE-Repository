@@ -6,8 +6,6 @@ Let's be honest, who actually likes cleaning? With my floor cleaning robot, you'
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Sterling Kalogeras | Pine Crest School | Computer Science | Incoming Senior
-
-![Headstone Image]
   
 # My First Milestone
 Where to begin? Well, before we can even begin discussing making my robot clean the floor, we have to actually build the robot! My first major goal was to finish building the base of the robot. I am going to refer to this base as the "car" since that's basically what my robot's base is.
@@ -18,4 +16,6 @@ Once I was finished with the main part of the wiring, I fastened the roof of the
 
 I inserted a pair of red wires into the "OUT1" and "OUT4" connections of the motor driver and a pair of black wires into the "OUT2" and "OUT3" connections of the motor driver. I then connected six multi-colored wires to my ESP32 microcontroller. Finally, after applying wheels onto the car, I plugged in the microcontroller to my computer, ran a piece of sample code in Arduino to mensure that I wired my car correctly, and watched the car rotate left and right.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+Check out a video version of this recap below!
+
+[![Sterling K Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1628278235/video_to_markdown/images/youtube--3VCPCNkzXvE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3VCPCNkzXvE&t=21s "Sterling K Milestone 1")
