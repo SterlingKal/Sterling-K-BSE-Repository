@@ -16,6 +16,8 @@ Once I was finished with the main part of the wiring, I fastened the roof of the
 
 I inserted a pair of red wires into the "OUT1" and "OUT4" connections of the motor driver and a pair of black wires into the "OUT2" and "OUT3" connections of the motor driver. I then connected six multi-colored wires to my ESP32 microcontroller. Finally, after applying wheels onto the car, I plugged in the microcontroller to my computer, ran a piece of sample code in Arduino to mensure that I wired my car correctly, and watched the car rotate left and right.
 
+![IMG_9223 2](https://user-images.githubusercontent.com/88210009/128563141-b7ec282a-331b-4330-9486-fceb1e2ed4ce.jpg)
+
 Check out a video version of this recap below!
 
 [![Sterling K Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1628278235/video_to_markdown/images/youtube--3VCPCNkzXvE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3VCPCNkzXvE&t=21s "Sterling K Milestone 1")
