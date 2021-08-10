@@ -21,3 +21,12 @@ I inserted a pair of red wires into the "OUT1" and "OUT4" connections of the mot
 Check out a video version of this recap below!
 
 [![Sterling K Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1628278235/video_to_markdown/images/youtube--3VCPCNkzXvE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3VCPCNkzXvE&t=21s "Sterling K Milestone 1")
+
+# My Second Milestone
+The next part of this project would be to get the car to move. As shown above, as part of my first milestone, the car was successfully able to rotate. Thus, the main part of this milestone was to get the robot to avoid obstacles.
+
+The way I did this was by using an ultrasonic sensor. For this to work, I had to connect the four pins of the sensor to four un-used pins on the ESP32. After the pins were connected, I started to fasten the different parts of the car to their "final" positions. My battery pack remained at the top of the robot, but I pushed back the motor driver, taped down my ESP32 and miscellaneous wires, and installed a portable charger so that my robot could run without the use of a computer. Afterwards, I taped my ultrasonic sensor to the front of the battery pack.
+
+The last part of this milestone was the programming. First, I found code on the Internet to get the ultrasonic sensor to start reading distances. My vision was that if the sensor noticed it was within fifty centimeters of an object, it would turn from the object. Otherwise, the robot would continue going straight. Thus, I implemented code that did exactly that (check it out in my video!).
+
+After modifying some of the code (e.g. changing the turning direction from left to right), I noticed that there was one huge remaining issue: the robot did not turn at all! However, after figuring out that it was not my code that was the problem but rather the hardware itself, I wrapped tape over all of the wheels to increase their traction. Once I did that, the robot was working as intended.c
