@@ -27,6 +27,14 @@ The next part of this project would be to get the car to move. As shown above, a
 
 The way I did this was by using an ultrasonic sensor. For this to work, I had to connect the four pins of the sensor to four un-used pins on the ESP32. After the pins were connected, I started to fasten the different parts of the car to their "final" positions. My battery pack remained at the top of the robot, but I pushed back the motor driver, taped down my ESP32 and miscellaneous wires, and installed a portable charger so that my robot could run without the use of a computer. Afterwards, I taped my ultrasonic sensor to the front of the battery pack.
 
-The last part of this milestone was the programming. First, I found code on the Internet to get the ultrasonic sensor to start reading distances. My vision was that if the sensor noticed it was within fifty centimeters of an object, it would turn from the object. Otherwise, the robot would continue going straight. Thus, I implemented code that did exactly that (check it out in my video!).
+![IMG_9258 2](https://user-images.githubusercontent.com/88210009/129096125-63c0fac7-d161-4c7f-832c-fd2a345c9c00.jpg)
 
-After modifying some of the code (e.g. changing the turning direction from left to right), I noticed that there was one huge remaining issue: the robot did not turn at all! However, after figuring out that it was not my code that was the problem but rather the hardware itself, I wrapped tape over all of the wheels to increase their traction. Once I did that, the robot was working as intended.c
+The last part of this milestone was the programming. First, I found code on the Internet to get the ultrasonic sensor to start reading distances. My vision was that if the sensor noticed it was within fifty centimeters of an object, it would turn from the object. Otherwise, the robot would continue going straight. Thus, I implemented code that did exactly that. Below is a screenshot of some of the code, and you can see the rest of it in my video!
+
+![Screen Shot 2021-08-11 at 4 12 05 PM](https://user-images.githubusercontent.com/88210009/129096620-81b7b256-c4b7-4580-823d-0bd2f08769ad.png)
+
+After modifying some of the code (e.g. changing the turning direction from left to right), I noticed that there was one huge remaining issue: the robot did not turn at all! However, after figuring out that it was not my code that was the problem but rather the hardware itself, I wrapped tape over all of the wheels to increase their traction. Once I did that, the robot was working as intended.
+
+Here's a video recap of my second milestone!
+
+[![Sterling K Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1628712387/video_to_markdown/images/youtube--G6Q558XEjX8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=G6Q558XEjX8&t=31s "Sterling K Milestone 2")
