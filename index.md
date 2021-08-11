@@ -37,3 +37,11 @@ After modifying some of the code (e.g. changing the turning direction from left 
 Here's a video recap of my second milestone!
 
 [![Sterling K Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1628712387/video_to_markdown/images/youtube--G6Q558XEjX8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=G6Q558XEjX8&t=31s "Sterling K Milestone 2")
+
+# My Final Milestone
+
+For my final milestone, it was time to bring everything together. I had to create a program that would serve as the primary code for the robot's functioning. I first designed an app on MIT App Inventor to serve as the user interface. My app contains a button for Bluetooth connection, a D-Pad to manually control the car, and a button to turn "autonomous mode" on or off.
+
+I programmed a little bit with the block code of App Inventor, like changing the color of different buttons depending on which mode is activated, but most of my code is in Arduino. I explain my code in depth in the video below, but for the most part, the program is split into two different sections. The autonomous mode code is virtually the same as in my second milestone. The second part is the code for the D-Pad.
+
+When testing my robot, one thing was obvious: the battery pack was doing its job, but not well. I decided to remove the battery pack entirely and use the ESP32 the power the motor driver. I took a wire from the VIN pin on the microcontroller and connected it to the 12V connection of the motor driver. Then I took another wire, attached one end to that same 12V connection and connected the other end to the VCC pin on the ultrasonic snsor.
