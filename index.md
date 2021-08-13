@@ -19,7 +19,7 @@ I inserted a pair of red wires into the "OUT1" and "OUT4" connections of the mot
 
 Check out a video version of this recap below!
 
-[![Sterling K Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1628278235/video_to_markdown/images/youtube--3VCPCNkzXvE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3VCPCNkzXvE&t=21s "Sterling K Milestone 1")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3VCPCNkzXvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # My Second Milestone
 The next part of this project would be to get the car to move. As shown above, as part of my first milestone, the car was successfully able to rotate. Thus, the main part of this milestone was to get the robot to avoid obstacles.
@@ -36,7 +36,7 @@ After modifying some of the code (e.g. changing the turning direction from left 
 
 Here's a video recap of my second milestone!
 
-[![Sterling K Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1628712387/video_to_markdown/images/youtube--G6Q558XEjX8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=G6Q558XEjX8&t=31s "Sterling K Milestone 2")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G6Q558XEjX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # My Final Milestone
 
@@ -47,3 +47,8 @@ I programmed a little bit with the block code of App Inventor, like changing the
 When testing my robot, one thing was obvious: the battery pack was doing its job, but not well. I decided to remove the battery pack entirely and use the ESP32 the power the motor driver. I took a wire from the VIN pin on the microcontroller and connected it to the 12V connection of the motor driver. Then I took another wire, attached one end to that same 12V connection and connected the other end to the VCC pin on the ultrasonic sensor.
 
 Finally, it's time to address the elephant in the room: how does the robot clean the floor? I had originally planned on using a brush to sweep the floor, but the brush I had planned on using was too big for the robot. Instead, I attached a blue duster in order to trap dust on the floor. Since I taped the duster on, it is easy to replace after each cleaning.
+
+![IMG_9312](https://user-images.githubusercontent.com/88210009/129418615-4c63c400-ac7f-45ad-82e5-585378dfe989.jpg)
+
+Check out my final milestone video here!
+
