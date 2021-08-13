@@ -1,4 +1,4 @@
-Let's be honest, who actually likes cleaning? With my floor cleaning robot, you'll never have to clean the house again...at least not the floors!
+As the above quote from Marcus Buckingham inquires, who actually likes cleaning? With my floor cleaning robot, you'll never have to clean the house again...at least not the floors!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
