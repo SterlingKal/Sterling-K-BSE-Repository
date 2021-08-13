@@ -50,3 +50,5 @@ Finally, it's time to address the elephant in the room: how does the robot clean
 
 Check out my final milestone video here!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ys06tNTKmu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
