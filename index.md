@@ -1,5 +1,3 @@
-"We dream of having a clean house — but who dreams of actually doing the cleaning?" -Marcus Buckingham
-
 Let's be honest, who actually likes cleaning? With my floor cleaning robot, you'll never have to clean the house again...at least not the floors!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
