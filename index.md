@@ -13,7 +13,7 @@ I inserted a pair of red wires into the "OUT1" and "OUT4" connections of the mot
 
 Check out a video version of this recap below!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3VCPCNkzXvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tzWgYz-gjwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # My Second Milestone
 The next part of this project would be to get the car to move. As shown above, as part of my first milestone, the car was successfully able to rotate. Thus, the main part of this milestone was to get the robot to avoid obstacles.
@@ -30,7 +30,7 @@ After modifying some of the code (e.g. changing the turning direction from left 
 
 Here's a video recap of my second milestone!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G6Q558XEjX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w4Mt09cjsjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # My Final Milestone
 
@@ -46,5 +46,5 @@ Finally, it's time to address the elephant in the room: how does the robot clean
 
 Check out my final milestone video here!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ys06tNTKmu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tl5UfjUt6c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
