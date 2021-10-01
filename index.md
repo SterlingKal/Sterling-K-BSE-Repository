@@ -1,8 +1,4 @@
 As the above quote from Marcus Buckingham inquires, who actually likes cleaning? With my floor cleaning robot, you'll never have to clean the house again...at least not the floors!
-
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
-|:--:|:--:|:--:|:--:|
-| Sterling Kalogeras | Pine Crest School | Computer Science | Incoming Senior
   
 # My First Milestone
 Where to begin? Well, before we can even begin discussing making my robot clean the floor, we have to actually build the robot! My first major goal was to finish building the base of the robot. I am going to refer to this base as the "car" since that's basically what my robot's base is.
